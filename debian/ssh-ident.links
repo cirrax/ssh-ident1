@@ -1,0 +1,4 @@
+
+/usr/bin/ssh-ident /usr/local/bin/ssh
+/usr/bin/ssh-ident /usr/local/bin/scp
+/usr/bin/ssh-ident /usr/local/bin/sftp
